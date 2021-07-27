@@ -1,4 +1,4 @@
-# Seja bem vindo ao meu Github
+**Seja bem vindo ao meu Github**
 
 ## Sobre mim
 <em>Meu nome é Júlio César e sou um estudante fascinado por programação.</em>\
