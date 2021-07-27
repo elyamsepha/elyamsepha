@@ -1,4 +1,5 @@
-### Olá, Meu nome é Júlio César e sou um estudante fascinado por programação.
+# Olá 
+### Meu nome é Júlio César e sou um estudante fascinado por programação.
 
 A minha principal linguagem de programação no momento é **Python**
 
