@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Python](https://img.shields.io/badge/-Python-050806?style=flat-square&logo=python)&nbsp;
+
 <!--
 **elyamsepha/elyamsepha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
