@@ -6,16 +6,16 @@ A minha principal linguagem de programação no momento é **Python**
 # 💻 Linguagens
 
 ![Python](https://img.shields.io/badge/-Python-050806?style=flat-square&logo=python)&nbsp;
-![**Intermediário**]&nbsp;
+![Intermediário]
  
 ![Lua](https://img.shields.io/badge/-Lua-050806?style=flat-square&logo=lua)&nbsp;
-![**Estudando**]&nbsp;
+![Estudando]
 
 ![C](https://img.shields.io/badge/-C-050806?style=flat-square&logo=C)&nbsp;
-![**Básico**]&nbsp;
+![Básico]
 
 ![JavaScript(node)](https://img.shields.io/badge/-JavaScript-050806?style=flat-square&logo=javascript)&nbsp;
-![**Básico**]&nbsp;
+![Básico]
 
 
 <!--
