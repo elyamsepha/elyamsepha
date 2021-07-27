@@ -14,7 +14,7 @@ A minha principal linguagem de programação no momento é **Python**
 ![C](https://img.shields.io/badge/-C-050806?style=flat-square&logo=C)&nbsp;
 *Básico*
 
-![JavaScript(node)](https://img.shields.io/badge/-JavaScript-050806?style=flat-square&logo=javascript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-050806?style=flat-square&logo=javascript)&nbsp;
 *Básico*
 
 
