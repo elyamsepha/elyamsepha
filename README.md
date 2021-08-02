@@ -25,6 +25,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elyamsepha&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
-
-
-![Snake animation](https://github.com/elyamsepha/elyamsepha/blob/output/github-contribution-grid-snake.svg)
