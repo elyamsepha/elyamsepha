@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/-Python-050806?style=flat-square&logo=python)&nbsp;
 *Intermediário*
 
-![C#](https://img.shields.io/badge/-C-050806?style=flat-square&logo=Csharp)&nbsp;
+![Csharp](https://img.shields.io/badge/-C-050806?style=flat-square&logo=Csharp)&nbsp;
 *Básico*
  
 ![Lua](https://img.shields.io/badge/-Lua-050806?style=flat-square&logo=lua)&nbsp;
