@@ -1,6 +1,6 @@
 ## Sobre mim
 <em>Meu nome é Júlio César e sou um estudante fascinado por programação.</em>\
-<em>minha principal linguagem de programação no momento é **Csharp**</em>
+<em>minha principal linguagem de programação no momento é **Python**</em>
 
 # 💻 Linguagens
 
